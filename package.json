@@ -59,7 +59,7 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@types/node": "^20",
+    "@types/node": "^22.0.0",
     "@types/quill": "^2.0.14",
     "@types/react": "^18",
     "@types/react-dom": "^18",
